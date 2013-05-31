@@ -1,0 +1,30 @@
+[
+  { "keys": ["super+shift+h"], "command": "goto_documentation" },
+  { "keys": ["super+shift+r"], "command": "reveal_in_side_bar" },
+
+  /* paste and indent at once */
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" },
+
+  /* LaTeX Package keymap for OS X */
+  {
+    "keys":     ["super+l","super+t"],
+    "context":  [{
+      "key": "selector",
+      "operator": "equal",
+      "operand": "text.tex.latex"
+    }],
+    "command":  "insert_snippet",
+    "args":     {"name":"Packages/User/LaTeX/text-typewriter.sublime-snippet"}
+  },
+  {
+    "keys":     ["super+l","super+g"],
+    "context":  [{
+      "key": "selector",
+      "operator": "equal",
+      "operand": "text.tex.latex"
+    }],
+    "command":  "insert_snippet",
+    "args":     {"name":"Packages/User/LaTeX/glossary.sublime-snippet"}
+  }
+]

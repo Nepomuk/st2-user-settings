@@ -1,0 +1,35 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Can I Use",
+		"CSS Snippets",
+		"Gist",
+		"Git",
+		"Goto Documentation",
+		"Http Requester",
+		"jQuery Snippets pack",
+		"LaTeXTools",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"Python Auto-Complete",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"ToggleQuotes",
+		"Tomorrow Color Schemes",
+		"Twitter Bootstrap Snippets",
+		"Verilog",
+		"VHDL",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+	]
+}
