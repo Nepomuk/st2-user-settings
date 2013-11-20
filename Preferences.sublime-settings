@@ -42,7 +42,10 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Python Auto-Complete"
+		"Python Auto-Complete",
+		"Verilog",
+		"SublimeGit",
+		"Twitter Bootstrap Snippets"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
